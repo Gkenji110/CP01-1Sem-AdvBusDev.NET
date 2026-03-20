@@ -1,0 +1,15 @@
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/bin/Debug/net7.0/Exercicio2
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/bin/Debug/net7.0/Exercicio2.deps.json
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/bin/Debug/net7.0/Exercicio2.runtimeconfig.json
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/bin/Debug/net7.0/Exercicio2.dll
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/bin/Debug/net7.0/Exercicio2.pdb
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/Exercicio2.csproj.AssemblyReference.cache
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/Exercicio2.AssemblyInfoInputs.cache
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/Exercicio2.AssemblyInfo.cs
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/Exercicio2.csproj.CoreCompileInputs.cache
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/Exercicio2.dll
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/refint/Exercicio2.dll
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/Exercicio2.pdb
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/Exercicio2.genruntimeconfig.cache
+/Users/gustavokenji/Desktop/fiap/cp-fiap/cp01-1sem-ABDw.net/Exercicio2/obj/Debug/net7.0/ref/Exercicio2.dll

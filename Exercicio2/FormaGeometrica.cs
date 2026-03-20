@@ -1,11 +1,17 @@
 ﻿using System;
 namespace Exercicio2
 {
-	public class FormaGeometrica
+	class FormaGeometrica
 	{
-		public FormaGeometrica()
+		public virtual double CalcularArea()
 		{
+			return 0;
 		}
-	}
+        public virtual double CalcularPerimetro()
+		{
+			return 0;
+		}
+
+    }
 }
 

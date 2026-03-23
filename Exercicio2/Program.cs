@@ -1,12 +1,9 @@
-﻿// Program.cs
-
-using Exercicio2;
+﻿using Exercicio2;
 
 Console.WriteLine("======================================");
 Console.WriteLine("   SISTEMA DE FORMAS GEOMÉTRICAS");
 Console.WriteLine("======================================");
 
-// CÍRCULO
 Console.WriteLine("\n========== CÍRCULO ==========");
 Console.Write("Digite o Raio do Círculo: ");
 double raio = double.Parse(Console.ReadLine());
@@ -15,7 +12,6 @@ Circulo circulo = new Circulo(raio);
 Console.WriteLine($"\nÁrea do Círculo: {circulo.CalcularArea():F2}");
 Console.WriteLine($"Perímetro do Círculo: {circulo.CalcularPerimetro():F2}");
 
-// RETÂNGULO
 Console.WriteLine("\n========== RETÂNGULO ==========");
 Console.Write("Digite a Largura do Retângulo: ");
 double largura = double.Parse(Console.ReadLine());
@@ -27,7 +23,6 @@ Retangulo retangulo = new Retangulo(largura, altura);
 Console.WriteLine($"\nÁrea do Retângulo: {retangulo.CalcularArea():F2}");
 Console.WriteLine($"Perímetro do Retângulo: {retangulo.CalcularPerimetro():F2}");
 
-// TRIÂNGULO
 Console.WriteLine("\n========== TRIÂNGULO ==========");
 Console.Write("Digite o Lado A do Triângulo: ");
 double ladoA = double.Parse(Console.ReadLine());
